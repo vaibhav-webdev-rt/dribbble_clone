@@ -87,8 +87,6 @@ align-items: center;
 .timenav{
   border-radius: 10px;
     min-width: 180px;
-    /* max-height: 24px; */
-
 }
 
 .timeframe-btn .flip_arrow .up_arrow{
